@@ -1,0 +1,43 @@
+https://books.google.com.pk/books?id=Ce6gAAAACAAJ&printsec=frontcover&redir_esc=y#v=onepage&q&f=false  (BOOK).
+https://www.w3resource.com/c-programming-exercises/for-loop/index.php   (QUESTION)
+Q1: Write a program that reads two numbers and multiplies them together and prints out their product without using the product * operator.
+Q2: Design a Case structure program for:
+a) Even or Not
+b) Prime or not
+c) Square or not
+d) default
+
+Q3: Write a program to print all multiples of 5 between 1 and 100 (including both 1 and 100).
+
+Q4: Write a program that will count all the even numbers up to a user-defined stopping point.
+
+Q5: Write a program that will perform the following.
+a) Read in 5 separate numbers.
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+Q6: Write a program that will calculate a running sum. A user will enter numbers that will be added to the sum and when a negative number is encountered, stop adding numbers and write out the final result.
+
+Q7: Write a program that takes a five-digit number and prints the reverse of a number.
+
+Q8: Write a program to find the GCD (Greatest Common Divisor) of two numbers a and b.
+
+Q9: Write a program to find the letter grade when the score is entered by the user 
+such that if the score is:
+90 OR ABOVE, grade = A
+80-89, grade = B
+70-79, grade = C
+60-69, grade = D
+50-59, grade = E
+BELOW 50, grade = Fail
+
+Q10: Write a program that takes N as input and prints the numbers from 1 to N and their
+squares and cubes in the following manner.
+Eg. N=10
+Number Square Cube
+1 1 1
+2 4 8
+3 9 81
+... .. ...
+10 100 1000
